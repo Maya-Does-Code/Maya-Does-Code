@@ -13,9 +13,7 @@ I'm currently enrolled on the **[CFGDegree in Data Science](https://codefirstgir
 
 ---
 
-### 🛠️ Tools and Tech I’m Learning
- 
-### 🧰 Tools & Tech I’m Learning
+### 🛠️ Tools & Tech I’m Learning
 
 ![MySQL](https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
