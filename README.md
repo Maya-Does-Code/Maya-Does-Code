@@ -14,14 +14,17 @@ I'm currently enrolled on the **[CFGDegree in Data Science](https://codefirstgir
 ---
 
 ### 🛠️ Tools and Tech I’m Learning
+ 
+### 🧰 Tools & Tech I’m Learning
 
-- Python  
-- Pandas & NumPy  
-- SQL (MySQL)  
-- HTML & CSS  
-- Jupyter Notebooks  
-- Visual Studio Code  
-- Markdown  
-- PyCharm
+![MySQL](https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4B8BBE?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-EA7E20?style=for-the-badge&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/PyCharm-1E1F22?style=for-the-badge&logo=pycharm&logoColor=21D789)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ---
