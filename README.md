@@ -9,7 +9,7 @@ After 10 years working in marketing - building social campaigns, evaluating page
 
 As a millennial who spent most of my teens on Bebo and MySpace - arguably the greatest social networks of my time - it’s no surprise I ended up working in the online space. I was customising my Tumblr and Blogspot with HTML and CSS before I really knew what they were, unknowingly laying the foundations for a future in data.
 
-I'm currently enrolled on the **[CFGDegree in Data Science](https://codefirstgirls.com/courses/cfgdegree/)** — an intensive 16-week bootcamp covering core tools and concepts to deepen my knowledge and pivot into the data space.
+I've  recently completed the **[CFGDegree in Data Science](https://codefirstgirls.com/courses/cfgdegree/)** — an intensive 16-week bootcamp covering core tools and concepts to deepen my knowledge and pivot into the data space.
 
 ---
 
